@@ -124,3 +124,15 @@ function checkTime(i) {
     var random = myarray[Math.floor(Math.random() * myarray.length)];
     document.getElementById("message").innerHTML=random;
 }
+function gotomainpage(){
+location.href="mainpage.html"
+}
+function gotopage2(){
+location.href="page2.html"
+}
+function gotopage3(){
+location.href="page3.html"
+}
+function gotopage4(){
+location.href="page4.html"
+}
